@@ -1,0 +1,20 @@
+/* Resetting default margin and padding */
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling the h1 tag */
+h1 {
+    text-align: center;
+    color: #333; /* Dark grey color */
+    font-family: Arial, sans-serif;
+}
+
+/* Styling the body */
+body {
+    background-color: #f0f0f0; /* Light grey background color */
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
